@@ -1,4 +1,4 @@
-![SENPAI Academy Logo](./assets/images/senpai_logo.png)
+![SENPAI Academy Logo](./03.assets/images/senpai_logo.png)
 
 # 🚀 Productivity with AI – SENPAI Academy
 
