@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./03.assets/images/senpai_logo.png" alt="SENPAI Academy Logo" width="400">
+  <img src="./04.assets/images/senpai_logo.png" alt="SENPAI Academy Logo" width="400">
 </p>
 
 # 🚀 Productivity with AI – SENPAI Academy
