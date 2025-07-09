@@ -137,9 +137,6 @@ Use these directly in Notion AI:
 - [Intro to Notion for Beginners – Thomas Frank](https://www.youtube.com/watch?v=oTahLEX3NXo)
 - [Notion AI Explained in 10 Minutes](https://www.youtube.com/watch?v=nlk0GvCjhiE)
 
-### 📑 Prompt Sheet (PDF)
-- [Download prompt examples](https://yourdomain.com/notion-course/prompts.pdf)
-
 
 ## 🙋 FAQ
 
