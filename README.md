@@ -76,7 +76,7 @@ This course is designed for:
 
 ## 🙋 Questions or Feedback?
 
-Open an [Issue](https://github.com/YOUR_USERNAME/productivity-with-ai/issues) if you have questions, feedback, or want to contribute improvements.
+Open an [Issue](https://github.com/al34n1x/productivity_AI/issues) if you have questions, feedback, or want to contribute improvements.
 
 ---
 
