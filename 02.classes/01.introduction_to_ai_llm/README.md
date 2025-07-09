@@ -64,3 +64,7 @@ But they need **clear and specific prompts** to perform well — that’s where 
 ### 5. **Build a Prompt Template**
 > 🔹 Prompt:  
 > “You are a productivity coach. Based on this weekly calendar, give suggestions to optimize my focus hours.”
+
+---
+
+[⬅ Back to Course Home](../../README.md)
