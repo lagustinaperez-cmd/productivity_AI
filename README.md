@@ -39,7 +39,7 @@ The goal of this course is to **transform how you work** by integrating AI into 
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/productivity-with-ai.git
+   git clone https://github.com/al34n1x/productivity_AI.git
    ```
 
 2. Navigate through each module and explore the guided projects.
