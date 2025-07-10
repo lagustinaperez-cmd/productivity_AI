@@ -164,7 +164,7 @@ Learn how to use Notion AI to summarize, write, and structure your thoughts by c
 
 ---
 
-### 🧪 Lab Exercise: "Design Your Perfect Day with Notion AI"
+### 🧪 Bonus Lab: "Design Your Perfect Day with Notion AI"
 In this exercise, you'll use Notion AI to create a visual and written guide to your ideal productive day.
 
 #### 🧱 Step 1: Set Up Your Page (5 min)
