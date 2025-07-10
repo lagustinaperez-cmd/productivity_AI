@@ -66,7 +66,7 @@ Your quick reference for using Notion efficiently – including keyboard shortcu
 ## 📦 Useful Resources
 
 - 📘 [Official Notion Help Center](https://www.notion.so/help)
-- 🎥 [Beginner YouTube Tutorial (15 min)](https://www.youtube.com/watch?v=9Xv3K64cVfw)
+- 🎥 [Notion Videos - Playlist](https://www.youtube.com/playlist?list=PLYV9oYJ_9ey6l8xRkYHZ4bit-2_Z0UI65)
 - 📂 [Notion Template Gallery](https://www.notion.so/templates)
 - 🤝 Join a Community: Search for “Notion” on Reddit, Facebook, or Discord
 
