@@ -92,11 +92,11 @@ By the end of this session, you will:
 3. Add title: `My Productivity Hub`
 4. Add these blocks:
    - Heading: `📋 Tasks`
-   - To-do list
+      - To-do list
    - Heading: `🧠 Notes`
-   - Paragraph
+      - Text
    - Heading: `🎯 Goals`
-   - Toggle block with goals for the week
+      - Toggle block
 
 ### ✨ Exercise 2: Use Notion AI
 1. Write a short paragraph about a project or idea
@@ -115,8 +115,10 @@ By the end of this session, you will:
    - Lessons Learned
    - Focus for Next Week
 3. Under each heading, ask Notion AI:
-   - "Generate 3 example wins based on a tech project"
-   - "List common blockers for remote teams"
+   - “Generate 3 example wins based on a tech project”
+   - “List common blockers for remote teams”
+   - “Based on the wins and blockers, describe the lessons learned”
+   - “Provide the focus for the upcoming weeks”
 
 
 ## 🧩 Example AI Prompts
