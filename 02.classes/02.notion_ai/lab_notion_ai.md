@@ -31,3 +31,7 @@ Use Notion AI prompts like:
 "Write a project plan for launching a new website."
 "Generate key milestones for a 3-month marketing campaign."
 "Create SMART goals based on: ‘Improve customer retention’."
+
+---
+
+[⬅ Back to Course Home](../../README.md)

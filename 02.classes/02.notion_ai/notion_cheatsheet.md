@@ -83,3 +83,7 @@ This cheat sheet is ideal for:
 ---
 
 > Built with 💡 to help you organize your life and work smarter with Notion.
+
+---
+
+[⬅ Back to Course Home](../../README.md)
