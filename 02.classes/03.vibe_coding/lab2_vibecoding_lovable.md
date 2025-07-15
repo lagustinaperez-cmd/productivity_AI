@@ -108,3 +108,6 @@ We are building a **responsive AI education web app** designed to deliver a high
 - Fully functional responsive layout  
 - Sorting and filtering on courses page  
 - Starter README and dev instructions (optional)
+
+---
+[⬅ Back to Course Home](../../README.md)

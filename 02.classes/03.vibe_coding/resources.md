@@ -5,10 +5,10 @@ Here you will find a list of resources that you can use to help you build your p
 ## Browser-based Tools
 - 🔥 [Bolt.new](https://bolt.new/) - Prompt, run, edit, and deploy full-stack web and mobile apps.
 - 🔥 [Lovable](https://lovable.dev/) - "Idea to app in seconds. Lovable is your superhuman full stack engineer".
+- 🔥 [Replit](https://replit.com/) - "Simply describe your idea above and let the Agent build it for you".
 - 🔥 [v0 by Vercel](https://v0.dev/chat) - Assistant to build NextJS frontend.
 - [Capacity](https://capacity.so/) - "Capacity lets you turn your ideas into fully functional web apps in minutes using AI.".
 - [CHAI.new by Langbase](https://chai.new) - Prompt to vibe code any AI agent and deploy (agent, app, api)
-- [Replit](https://replit.com/) - "Simply describe your idea above and let the Agent build it for you".
 - [Create](https://www.create.xyz/) - "Turn your words into sites, tools, apps, and products".
 - [Trickle AI](https://www.trickle.so/) - "Build stunning websites, AI apps, and forms with ease".
 - [Tempo](https://www.tempo.new/) - "Build React apps 10x faster with AI".

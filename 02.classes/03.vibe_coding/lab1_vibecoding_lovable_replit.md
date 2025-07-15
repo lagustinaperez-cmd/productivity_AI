@@ -9,6 +9,12 @@ Whether you're building a personal learning platform, an internal training tool,
 Let’s build something people will love to learn with. 🚀
 
 
+## Tools:
+
+- 🔥 [Bolt.new](https://bolt.new/) - Prompt, run, edit, and deploy full-stack web and mobile apps.
+- 🔥 [Lovable](https://lovable.dev/) - "Idea to app in seconds. Lovable is your superhuman full stack engineer".
+- 🔥 [Replit](https://replit.com/) - "Simply describe your idea above and let the Agent build it for you".
+
 ## Role/Profession  
 Frontend Developer
 
