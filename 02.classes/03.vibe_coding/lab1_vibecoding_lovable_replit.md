@@ -1,6 +1,6 @@
 # Building a social networkplatform - (Prompt Engineering)
 
-In this lab, you’ll build a sleek, responsive social network application using Lovable/Replit, a developer assistant designed to help you scaffold high-quality apps fast. Your mission is to create an social netowrk platform focused on connecting people, with a clean layout, and aseamless mobile experience.
+In this lab, you’ll build a sleek, responsive social network application using Lovable/Replit, a developer assistant designed to help you scaffold high-quality apps fast. Your mission is to create an social network platform focused on connecting people, with a clean layout, and aseamless mobile experience.
 
 By the end of this lab, you'll have a fully structured web app foundation that can be extended with real content, user auth, and backend logic — ready for deployment or customization.
 
