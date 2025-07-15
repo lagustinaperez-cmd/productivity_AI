@@ -38,7 +38,6 @@ This will generate a React + Vite-based front-end with localStorage support and 
 4. Return to Lovable and select the new project.
 5. Lovable updates your code to use Supabase instead of localStorage.
 
-![Supabase Integration](https://www.datacamp.com/tutorial/lovable-ai/_next/image?url=%2F_supabase-connection.png&w=1080&q=75)
 
 
 
@@ -65,8 +64,6 @@ Steps:
 - Lovable sets up a cloud function using cron.
 - You'll be asked for a **Resend API key** (use [resend.com](https://resend.com)) to send the emails.
 - Lovable will deploy the function and automate email delivery.
-
-![Cloud Function Setup](https://www.datacamp.com/tutorial/lovable-ai/_next/image?url=%2F_email-reminder.png&w=1080&q=75)
 
 
 
@@ -153,3 +150,6 @@ npm run dev
 
 # Make edits via Lovable or GitHub
 # Redeploy from Lovable dashboard after pushing
+
+---
+[⬅ Back to Course Home](../../README.md)
