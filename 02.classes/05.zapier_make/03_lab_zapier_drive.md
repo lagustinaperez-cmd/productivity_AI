@@ -28,6 +28,11 @@ Make sure you have the following:
 
 ---
 
+212756066761-2db7u6q8jph9mum6725iocdsvp87ubav.apps.googleusercontent.com
+
+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
+
+
 ## 🧪 Step-by-Step Lab
 
 ### 🔁 Step 1: Create a New Zap
