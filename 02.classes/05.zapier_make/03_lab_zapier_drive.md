@@ -28,7 +28,6 @@ Make sure you have the following:
 
 ---
 
-
 ## 🧪 Step-by-Step Lab
 
 ### 🔁 Step 1: Create a New Zap
