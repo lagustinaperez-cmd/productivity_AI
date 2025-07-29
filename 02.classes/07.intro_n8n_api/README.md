@@ -119,53 +119,13 @@ Cuando usamos una API, hacemos una **solicitud (request)** con un **contenido (p
 
 ---
 
-## 🔄 Ejemplo de flujo: Pregunta a GPT
-
-### Escenario:
-Enviar una pregunta y mostrar la respuesta.
-
-### Nodos:
-1. **Start**: Inicio del flujo
-2. **Set**: Definimos el prompt:
-```json
-{
-  "prompt": "¿Cuál es la capital de Francia?"
-}
-```
-3. **HTTP Request**:
-- URL: https://api.openai.com/v1/chat/completions
-- POST
-- Headers:
-```json
-{
-  "Authorization": "Bearer TU_API_KEY",
-  "Content-Type": "application/json"
-}
-```
-- Body:
-```json
-{
-  "model": "gpt-3.5-turbo",
-  "messages": [
-    { "role": "user", "content": "={{$json.prompt}}" }
-  ]
-}
-```
-
-4. **Function (opcional):**
-```js
-return [{ respuesta: $json.choices[0].message.content }]
-```
-5. **Telegram/Console/Email**: Mostrar respuesta
-
----
 
 ## 🎨 Actividad Práctica
 
 ### Crea un flujo que:
 - Pregunte: "¿Cuál es el país más poblado del mundo?"
 - Devuelva la respuesta de GPT
-- Envie la respuesta por Telegram (opcional)
+- Envie la respuesta al chat
 
 ---
 
