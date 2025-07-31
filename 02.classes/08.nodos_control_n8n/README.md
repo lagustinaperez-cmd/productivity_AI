@@ -121,3 +121,7 @@ Crear un flujo automatizado que clasifique correos según urgencia usando IA.
 ---
 
 ¡Esperamos que esta guía te ayude a comenzar a trabajar con flujos inteligentes y nodos de IA! 🚀
+
+---
+
+[⬅ Back to Course Home](../../README.md)
