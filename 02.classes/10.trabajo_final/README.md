@@ -83,3 +83,7 @@ Desarrollar un **agente automatizado en n8n** que:
 ---
 
 ¡A construir su primer agente inteligente con datos reales! 📊🤖
+
+---
+
+[⬅ Back to Course Home](../../README.md)
